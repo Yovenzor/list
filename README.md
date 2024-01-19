@@ -1,7 +1,8 @@
+# To-Do list
 
-# OTP Verification
+## Screenshot
 
-OTP, or One-Time Password, enhances online security by providing a temporary code via SMS or email, adding a crucial layer to user authentication.
+![to-do](https://github.com/Yovenzor/list/assets/102180213/b7b13bae-2695-42d4-917d-5c9bf3aedb59)
 
 ## Authors
 
@@ -11,4 +12,3 @@ OTP, or One-Time Password, enhances online security by providing a temporary cod
 
 - When reloads, the tasks don't disappear.
 - Remove task
-
